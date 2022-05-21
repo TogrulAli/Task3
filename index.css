@@ -1,0 +1,14 @@
+table {
+    margin-left: 400px;
+}
+table, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+textarea {
+    resize: none;
+}
